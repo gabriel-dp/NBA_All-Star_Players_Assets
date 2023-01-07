@@ -1,0 +1,82 @@
+{
+	"data": [
+		{
+			"firstName": "LeBron",
+			"lastName": "James",
+			"position": "F",
+			"team": "LAL",
+			"number": 6,
+			"isCaptain": true,
+			"stats": {
+				"pts": 29.4,
+				"reb": 8.4,
+				"ast": 7.3
+			}
+		},
+		{
+			"firstName": "Donovan",
+			"lastName": "Mitchell",
+			"position": "G",
+			"team": "CLE",
+			"number": 45,
+			"isCaptain": false,
+			"stats": {
+				"pts": 28.7,
+				"reb": 3.1,
+				"ast": 7.4
+			}
+		},
+		{
+			"firstName": "Kevin",
+			"lastName": "Durant",
+			"position": "F",
+			"team": "BKN",
+			"number": 7,
+			"isCaptain": false,
+			"stats": {
+				"pts": 28.7,
+				"reb": 3.1,
+				"ast": 7.4
+			}
+		},
+		{
+			"firstName": "Ja",
+			"lastName": "Morant",
+			"position": "G",
+			"team": "MEM",
+			"number": 12,
+			"isCaptain": false,
+			"stats": {
+				"pts": 28.7,
+				"reb": 3.1,
+				"ast": 7.4
+			}
+		},
+		{
+			"firstName": "Luka",
+			"lastName": "Doncic",
+			"position": "G",
+			"team": "DAL",
+			"number": 7,
+			"isCaptain": false,
+			"stats": {
+				"pts": 28.7,
+				"reb": 3.1,
+				"ast": 7.4
+			}
+		},
+		{
+			"firstName": "Giannis",
+			"lastName": "Antetokounmpo",
+			"position": "F",
+			"team": "MIL",
+			"number": 34,
+			"isCaptain": true,
+			"stats": {
+				"pts": 28.7,
+				"reb": 3.1,
+				"ast": 7.4
+			}
+		}
+	]
+}

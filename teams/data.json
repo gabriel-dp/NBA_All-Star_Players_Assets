@@ -1,0 +1,304 @@
+{
+	"data": [
+		{
+			"name": "Atlanta Hawks",
+			"abbreviation": "ATL",
+			"conference": "East",
+			"division": "Southeast",
+			"colors": {
+				"primary": "#C8102E",
+				"secondary": "#FDB927"
+			}
+		},
+		{
+			"name": "Boston Celtics",
+			"abbreviation": "BOS",
+			"conference": "East",
+			"division": "Atlantic",
+			"colors": {
+				"primary": "#007A33",
+				"secondary": "#BA9653"
+			}
+		},
+		{
+			"name": "Brooklyn Nets",
+			"abbreviation": "BKN",
+			"conference": "East",
+			"division": "Atlantic",
+			"colors": {
+				"primary": "#000000",
+				"secondary": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Charlotte Hornets",
+			"abbreviation": "CHA",
+			"conference": "East",
+			"division": "Southeast",
+			"colors": {
+				"primary": "#1D1160",
+				"secondary": "#00788C"
+			}
+		},
+		{
+			"name": "Chicago Bulls",
+			"abbreviation": "CHI",
+			"conference": "East",
+			"division": "Central",
+			"colors": {
+				"primary": "#CE1141",
+				"secondary": "#000000"
+			}
+		},
+		{
+			"name": "Cleveland Cavaliers",
+			"abbreviation": "CLE",
+			"conference": "East",
+			"division": "Central",
+			"colors": {
+				"primary": "#860038",
+				"secondary": "#FDBB30"
+			}
+		},
+		{
+			"name": "Dallas Mavericks",
+			"abbreviation": "DAL",
+			"conference": "West",
+			"division": "Southwest",
+			"colors": {
+				"primary": "#00538C",
+				"secondary": "#B8C4CA"
+			}
+		},
+		{
+			"name": "Denver Nuggets",
+			"abbreviation": "DEN",
+			"conference": "West",
+			"division": "Northwest",
+			"colors": {
+				"primary": "#0E2240",
+				"secondary": "#FEC524"
+			}
+		},
+		{
+			"name": "Detroit Pistons",
+			"abbreviation": "DET",
+			"conference": "East",
+			"division": "Central",
+			"colors": {
+				"primary": "#C8102E",
+				"secondary": "#1D42BA"
+			}
+		},
+		{
+			"name": "Golden State Warriors",
+			"abbreviation": "GSW",
+			"conference": "West",
+			"division": "Pacific",
+			"colors": {
+				"primary": "#1D428A",
+				"secondary": "#FFC72C"
+			}
+		},
+		{
+			"name": "Houston Rockets",
+			"abbreviation": "HOU",
+			"conference": "West",
+			"division": "Southwest",
+			"colors": {
+				"primary": "#CE1141",
+				"secondary": "#C4CED4"
+			}
+		},
+		{
+			"name": "Indianda Pacers",
+			"abbreviation": "IND",
+			"conference": "East",
+			"division": "Central",
+			"colors": {
+				"primary": "#002D62",
+				"secondary": "#FDBB30"
+			}
+		},
+		{
+			"name": "Los Angeles Clippers",
+			"abbreviation": "LAC",
+			"conference": "West",
+			"division": "Pacific",
+			"colors": {
+				"primary": "#C8102E",
+				"secondary": "#1D428A"
+			}
+		},
+		{
+			"name": "Los Angeles Lakers",
+			"abbreviation": "LAL",
+			"conference": "West",
+			"division": "Pacific",
+			"colors": {
+				"primary": "#552583",
+				"secondary": "#FDB927"
+			}
+		},
+		{
+			"name": "Memphis Grizzlies",
+			"abbreviation": "CLE",
+			"conference": "East",
+			"division": "Southwest",
+			"colors": {
+				"primary": "#5D76A9",
+				"secondary": "#12173F"
+			}
+		},
+		{
+			"name": "Miami Heat",
+			"abbreviation": "MIA",
+			"conference": "East",
+			"division": "Southeast",
+			"colors": {
+				"primary": "#98002E",
+				"secondary": "#F9A01B"
+			}
+		},
+		{
+			"name": "Milwaukee Bucks",
+			"abbreviation": "MIL",
+			"conference": "East",
+			"division": "Central",
+			"colors": {
+				"primary": "#00471B",
+				"secondary": "#EEE1C6"
+			}
+		},
+		{
+			"name": "Minnesota Timberwolves",
+			"abbreviation": "MIN",
+			"conference": "West",
+			"division": "Northwest",
+			"colors": {
+				"primary": "#0C2340",
+				"secondary": "#236192"
+			}
+		},
+		{
+			"name": "New Orleans Pelicans",
+			"abbreviation": "NOP",
+			"conference": "West",
+			"division": "Southwest",
+			"colors": {
+				"primary": "#0C2340",
+				"secondary": "#85714D"
+			}
+		},
+		{
+			"name": "New York Knicks",
+			"abbreviation": "NYK",
+			"conference": "East",
+			"division": "Atlantic",
+			"colors": {
+				"primary": "#006BB6",
+				"secondary": "#F58426"
+			}
+		},
+		{
+			"name": "Oklahoma City Thunder",
+			"abbreviation": "OKC",
+			"conference": "West",
+			"division": "Northwest",
+			"colors": {
+				"primary": "#007AC1",
+				"secondary": "#EF3B24"
+			}
+		},
+		{
+			"name": "Orlando Magic",
+			"abbreviation": "ORL",
+			"conference": "East",
+			"division": "Southeast",
+			"colors": {
+				"primary": "#0077C0",
+				"secondary": "#C4CED4"
+			}
+		},
+		{
+			"name": "Philadelphia 76ers",
+			"abbreviation": "PHI",
+			"conference": "East",
+			"division": "Atlantic",
+			"colors": {
+				"primary": "#006BB6",
+				"secondary": "#ED174C"
+			}
+		},
+		{
+			"name": "Phoenix Suns",
+			"abbreviation": "PHX",
+			"conference": "West",
+			"division": "Pacific",
+			"colors": {
+				"primary": "#1D1160",
+				"secondary": "#E56020"
+			}
+		},
+		{
+			"name": "Portland Trail Blazers",
+			"abbreviation": "NYK",
+			"conference": "West",
+			"division": "Northwest",
+			"colors": {
+				"primary": "#E03A3E",
+				"secondary": "#000000"
+			}
+		},
+		{
+			"name": "Sacramento Kings",
+			"abbreviation": "SAC",
+			"conference": "West",
+			"division": "Pacific",
+			"colors": {
+				"primary": "#5A2D81",
+				"secondary": "#63727A"
+			}
+		},
+		{
+			"name": "San Antonio Spurs",
+			"abbreviation": "SAS",
+			"conference": "West",
+			"division": "Southwest",
+			"colors": {
+				"primary": "#C4CED4",
+				"secondary": "#000000"
+			}
+		},
+		{
+			"name": "Toronto Raptors",
+			"abbreviation": "TOR",
+			"conference": "East",
+			"division": "Atlantic",
+			"colors": {
+				"primary": "#CE1141",
+				"secondary": "#000000"
+			}
+		},
+		{
+			"name": "Utah Jazz",
+			"abbreviation": "UTA",
+			"conference": "West",
+			"division": "Northwest",
+			"colors": {
+				"primary": "##fcec2b",
+				"secondary": "##000000"
+			}
+		},
+		{
+			"name": "Washington Wizards",
+			"abbreviation": "WAS",
+			"conference": "East",
+			"division": "Southeast",
+			"colors": {
+				"primary": "##002B5C",
+				"secondary": "##E31837"
+			}
+		}
+	]
+}
