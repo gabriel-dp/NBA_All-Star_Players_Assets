@@ -1,82 +1,28 @@
 {
 	"data": [
 		{
-			"firstName": "LeBron",
-			"lastName": "James",
+			"name": { "first": "LeBron", "last": "James" },
+			"team": { "name": "Los Angeles Lakers", "number": "6" },
 			"position": "F",
-			"team": "LAL",
-			"number": 6,
-			"isCaptain": true,
-			"stats": {
-				"pts": 29.4,
-				"reb": 8.4,
-				"ast": 7.3
-			}
+			"allStar": { "team": "none", "role": "none", "number": -1 },
+			"stats": { "pts": 28.9, "reb": 8.2, "ast": 6.7 },
+			"personalData": { "heightImperial": "6'9\"", "weightImperial": 250, "age": 38, "country": "USA" }
 		},
 		{
-			"firstName": "Donovan",
-			"lastName": "Mitchell",
+			"name": { "first": "Anthony", "last": "Davis" },
+			"team": { "name": "Los Angeles Lakers", "number": "3" },
+			"position": "FC",
+			"allStar": { "team": "none", "role": "none", "number": -1 },
+			"stats": { "pts": 27.4, "reb": 12.1, "ast": 2.6 },
+			"personalData": { "heightImperial": "6'10\"", "weightImperial": 253, "age": 29, "country": "USA" }
+		},
+		{
+			"name": { "first": "Shai", "last": "Gilgeous-Alexander" },
+			"team": { "name": "Oklahoma City Thunder", "number": "2" },
 			"position": "G",
-			"team": "CLE",
-			"number": 45,
-			"isCaptain": false,
-			"stats": {
-				"pts": 28.7,
-				"reb": 3.1,
-				"ast": 7.4
-			}
-		},
-		{
-			"firstName": "Kevin",
-			"lastName": "Durant",
-			"position": "F",
-			"team": "BKN",
-			"number": 7,
-			"isCaptain": false,
-			"stats": {
-				"pts": 28.7,
-				"reb": 3.1,
-				"ast": 7.4
-			}
-		},
-		{
-			"firstName": "Ja",
-			"lastName": "Morant",
-			"position": "G",
-			"team": "MEM",
-			"number": 12,
-			"isCaptain": false,
-			"stats": {
-				"pts": 28.7,
-				"reb": 3.1,
-				"ast": 7.4
-			}
-		},
-		{
-			"firstName": "Luka",
-			"lastName": "Doncic",
-			"position": "G",
-			"team": "DAL",
-			"number": 7,
-			"isCaptain": false,
-			"stats": {
-				"pts": 28.7,
-				"reb": 3.1,
-				"ast": 7.4
-			}
-		},
-		{
-			"firstName": "Giannis",
-			"lastName": "Antetokounmpo",
-			"position": "F",
-			"team": "MIL",
-			"number": 34,
-			"isCaptain": true,
-			"stats": {
-				"pts": 28.7,
-				"reb": 3.1,
-				"ast": 7.4
-			}
+			"allStar": { "team": "none", "role": "none", "number": -1 },
+			"stats": { "pts": 30.9, "reb": 4.8, "ast": 5.7 },
+			"personalData": { "heightImperial": "6'6\"", "weightImperial": 195, "age": 24, "country": "Canada" }
 		}
 	]
 }

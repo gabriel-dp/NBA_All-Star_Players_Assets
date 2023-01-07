@@ -17,4 +17,4 @@ data = json.load(json_file)
 
 for element in data['data']:
     response = requests.post(arg_url, json=element)
-    print(response)
+    print(response.text)
