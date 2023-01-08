@@ -1,3 +1,5 @@
+# python <program>.py <input_file_path>.json <output_file_path>.json
+
 import argparse
 from pathlib import Path
 from selenium import webdriver
@@ -44,7 +46,7 @@ for player in players:
         team_name = team_number_position.split(' | ')[0]
         number = team_number_position.split(' | ')[1].replace('#', '')
         position = team_number_position.split(' | ')[2]
-        abv_position = ''.join([c for c in position if c.isupper()])
+        abv_position = list(''.join([c for c in position if c.isupper()]))
 
 
         # Get imperial measurements
@@ -68,8 +70,8 @@ for player in players:
             },
             "position": abv_position,
             "allStar": {
-                "team": "none",
-                "role": "none",
+                "team": "Team 1",
+                "role": "bench",
                 "number": -1
             },
             "stats": {
