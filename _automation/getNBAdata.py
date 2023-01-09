@@ -48,7 +48,7 @@ for player in players:
         position = team_number_position.split(' | ')[2]
         abv_position = list(''.join([c for c in position if c.isupper()]))
 
-
+ 
         # Get imperial measurements
         height_full = driver.find_element("xpath", "(//p [@class='PlayerSummary_playerInfoValue__JS8_v'][1])[1]").text
         height_imperial = height_full.split()[0]
@@ -61,8 +61,8 @@ for player in players:
 
         new_player = {
             "name": {
-                "first": player.split()[0],
-                "last": player.split()[1]
+                "first": player.split()[0].lower(),
+                "last": player.split()[1].lower()
             },
             "team": {
                 "name": team_name,

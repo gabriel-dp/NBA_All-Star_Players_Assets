@@ -87,7 +87,7 @@
 			"division": "Central",
 			"colors": {
 				"primary": "#C8102E",
-				"secondary": "#1D42BA"
+				"secondary": "#002D62"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"division": "Pacific",
 			"colors": {
 				"primary": "#C8102E",
-				"secondary": "#1D428A"
+				"secondary": "#BEC0C2"
 			}
 		},
 		{
@@ -142,12 +142,12 @@
 		},
 		{
 			"name": "Memphis Grizzlies",
-			"abbreviation": "CLE",
-			"conference": "East",
+			"abbreviation": "MEM",
+			"conference": "West",
 			"division": "Southwest",
 			"colors": {
-				"primary": "#5D76A9",
-				"secondary": "#12173F"
+				"primary": "#12173F",
+				"secondary": "#5D76A9"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"division": "Northwest",
 			"colors": {
 				"primary": "#0C2340",
-				"secondary": "#236192"
+				"secondary": "#78BE20"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"conference": "West",
 			"division": "Northwest",
 			"colors": {
-				"primary": "#007AC1",
+				"primary": "#002D62",
 				"secondary": "#EF3B24"
 			}
 		},
@@ -226,7 +226,7 @@
 			"conference": "East",
 			"division": "Atlantic",
 			"colors": {
-				"primary": "#006BB6",
+				"primary": "#002B5C",
 				"secondary": "#ED174C"
 			}
 		},
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "Portland Trail Blazers",
-			"abbreviation": "NYK",
+			"abbreviation": "POR",
 			"conference": "West",
 			"division": "Northwest",
 			"colors": {
@@ -257,7 +257,7 @@
 			"division": "Pacific",
 			"colors": {
 				"primary": "#5A2D81",
-				"secondary": "#63727A"
+				"secondary": "#C4CED4"
 			}
 		},
 		{
@@ -266,8 +266,8 @@
 			"conference": "West",
 			"division": "Southwest",
 			"colors": {
-				"primary": "#C4CED4",
-				"secondary": "#000000"
+				"primary": "#000000",
+				"secondary": "#C4CED4"
 			}
 		},
 		{
@@ -286,8 +286,8 @@
 			"conference": "West",
 			"division": "Northwest",
 			"colors": {
-				"primary": "##fcec2b",
-				"secondary": "##000000"
+				"primary": "#000000",
+				"secondary": "#fcec2b"
 			}
 		},
 		{
@@ -296,8 +296,8 @@
 			"conference": "East",
 			"division": "Southeast",
 			"colors": {
-				"primary": "##002B5C",
-				"secondary": "##E31837"
+				"primary": "#002B5C",
+				"secondary": "#E31837"
 			}
 		}
 	]
