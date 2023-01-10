@@ -53,7 +53,7 @@ for player in players:
         height_full = driver.find_element("xpath", "(//p [@class='PlayerSummary_playerInfoValue__JS8_v'][1])[1]").text
         height_imperial = height_full.split()[0]
         weight_full = driver.find_element("xpath", "(//p [@class='PlayerSummary_playerInfoValue__JS8_v'][1])[2]").text
-        weight_imperial = int(weight_full.split('lb')[0])
+        weight_imperial = weight_full.split()[0]
 
         # Get numeric age
         age_text = driver.find_element("xpath", "(//p [@class='PlayerSummary_playerInfoValue__JS8_v'][1])[5]").text
@@ -80,8 +80,8 @@ for player in players:
                 "ast": float(driver.find_element("xpath", "(//p [@class='PlayerSummary_playerStatValue___EDg_'][1])[3]").text)
             },
             "personalData": {
-                "heightImperial": height_imperial,
-                "weightImperial": weight_imperial,
+                "height": height_imperial,
+                "weight": weight_imperial,
                 "age": age_number,
                 "country": driver.find_element("xpath", "(//p [@class='PlayerSummary_playerInfoValue__JS8_v'][1])[3]").text
             }
