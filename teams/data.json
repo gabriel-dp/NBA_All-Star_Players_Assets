@@ -37,7 +37,7 @@
 			"division": "Southeast",
 			"colors": {
 				"primary": "#1D1160",
-				"secondary": "#00788C"
+				"secondary": "#1D8CAB"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"division": "Central",
 			"colors": {
 				"primary": "#CE1141",
-				"secondary": "#000000"
+				"secondary": "#FFFFFF"
 			}
 		},
 		{
@@ -86,8 +86,8 @@
 			"conference": "East",
 			"division": "Central",
 			"colors": {
-				"primary": "#C8102E",
-				"secondary": "#002D62"
+				"primary": "#002B5C",
+				"secondary": "#ED174C"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"conference": "West",
 			"division": "Southwest",
 			"colors": {
-				"primary": "#CE1141",
+				"primary": "#BA0C2F",
 				"secondary": "#C4CED4"
 			}
 		},
@@ -126,8 +126,8 @@
 			"conference": "West",
 			"division": "Pacific",
 			"colors": {
-				"primary": "#C8102E",
-				"secondary": "#BEC0C2"
+				"primary": "#002B5C",
+				"secondary": "#ED174C"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"division": "Southwest",
 			"colors": {
 				"primary": "#0C2340",
-				"secondary": "#85714D"
+				"secondary": "#B5985A"
 			}
 		},
 		{
@@ -246,8 +246,8 @@
 			"conference": "West",
 			"division": "Northwest",
 			"colors": {
-				"primary": "#E03A3E",
-				"secondary": "#000000"
+				"primary": "#D00328",
+				"secondary": "#FFFFFF"
 			}
 		},
 		{
@@ -276,8 +276,8 @@
 			"conference": "East",
 			"division": "Atlantic",
 			"colors": {
-				"primary": "#CE1141",
-				"secondary": "#000000"
+				"primary": "#BA0C2F",
+				"secondary": "#FFFFFF"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"division": "Southeast",
 			"colors": {
 				"primary": "#002B5C",
-				"secondary": "#E31837"
+				"secondary": "#ED174C"
 			}
 		}
 	]
