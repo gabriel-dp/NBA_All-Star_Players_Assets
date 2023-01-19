@@ -1,1 +1,196 @@
-{"data": [{"name": {"first": "anthony", "last": "davis"}, "team": {"name": "Los Angeles Lakers", "number": "3"}, "position": ["F", "C"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 27.4, "reb": 12.1, "ast": 2.6}, "personalData": {"height": "6'10\"", "weight": "253lb", "age": 29, "country": "USA"}}, {"name": {"first": "damian", "last": "lillard"}, "team": {"name": "Portland Trail Blazers", "number": "0"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 27.3, "reb": 4.0, "ast": 7.2}, "personalData": {"height": "6'2\"", "weight": "195lb", "age": 32, "country": "USA"}}, {"name": {"first": "demar", "last": "derozan"}, "team": {"name": "Chicago Bulls", "number": "11"}, "position": ["G", "F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 26.1, "reb": 5.0, "ast": 4.9}, "personalData": {"height": "6'6\"", "weight": "220lb", "age": 33, "country": "USA"}}, {"name": {"first": "devin", "last": "booker"}, "team": {"name": "Phoenix Suns", "number": "1"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 27.1, "reb": 4.6, "ast": 5.6}, "personalData": {"height": "6'5\"", "weight": "206lb", "age": 26, "country": "USA"}}, {"name": {"first": "donovan", "last": "mitchell"}, "team": {"name": "Cleveland Cavaliers", "number": "45"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 28.8, "reb": 3.9, "ast": 4.8}, "personalData": {"height": "6'1\"", "weight": "215lb", "age": 26, "country": "USA"}}, {"name": {"first": "giannis", "last": "antetokounmpo"}, "team": {"name": "Milwaukee Bucks", "number": "34"}, "position": ["F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 31.7, "reb": 11.8, "ast": 5.2}, "personalData": {"height": "7'0\"", "weight": "243lb", "age": 28, "country": "Greece"}}, {"name": {"first": "ja", "last": "morant"}, "team": {"name": "Memphis Grizzlies", "number": "12"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 27.2, "reb": 5.9, "ast": 8.0}, "personalData": {"height": "6'2\"", "weight": "174lb", "age": 23, "country": "USA"}}, {"name": {"first": "james", "last": "harden"}, "team": {"name": "Philadelphia 76ers", "number": "1"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 22.0, "reb": 6.3, "ast": 10.8}, "personalData": {"height": "6'5\"", "weight": "220lb", "age": 33, "country": "USA"}}, {"name": {"first": "jaylen", "last": "brown"}, "team": {"name": "Boston Celtics", "number": "7"}, "position": ["G", "F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 26.8, "reb": 6.9, "ast": 3.3}, "personalData": {"height": "6'6\"", "weight": "223lb", "age": 26, "country": "USA"}}, {"name": {"first": "jayson", "last": "tatum"}, "team": {"name": "Boston Celtics", "number": "0"}, "position": ["F", "G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 30.8, "reb": 8.1, "ast": 4.2}, "personalData": {"height": "6'8\"", "weight": "210lb", "age": 24, "country": "USA"}}, {"name": {"first": "joel", "last": "embiid"}, "team": {"name": "Philadelphia 76ers", "number": "21"}, "position": ["C", "F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 33.5, "reb": 9.8, "ast": 4.6}, "personalData": {"height": "7'0\"", "weight": "280lb", "age": 28, "country": "Cameroon"}}, {"name": {"first": "kevin", "last": "durant"}, "team": {"name": "Brooklyn Nets", "number": "7"}, "position": ["F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 29.7, "reb": 6.7, "ast": 5.3}, "personalData": {"height": "6'10\"", "weight": "240lb", "age": 34, "country": "USA"}}, {"name": {"first": "kyrie", "last": "irving"}, "team": {"name": "Brooklyn Nets", "number": "11"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 26.0, "reb": 4.9, "ast": 4.7}, "personalData": {"height": "6'2\"", "weight": "195lb", "age": 30, "country": "Australia"}}, {"name": {"first": "lauri", "last": "markkanen"}, "team": {"name": "Utah Jazz", "number": "23"}, "position": ["F", "C"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 24.5, "reb": 8.3, "ast": 1.9}, "personalData": {"height": "7'0\"", "weight": "240lb", "age": 25, "country": "Finland"}}, {"name": {"first": "lebron", "last": "james"}, "team": {"name": "Los Angeles Lakers", "number": "6"}, "position": ["F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 29.1, "reb": 8.2, "ast": 6.7}, "personalData": {"height": "6'9\"", "weight": "250lb", "age": 38, "country": "USA"}}, {"name": {"first": "luka", "last": "doncic"}, "team": {"name": "Dallas Mavericks", "number": "77"}, "position": ["F", "G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 34.0, "reb": 8.8, "ast": 8.7}, "personalData": {"height": "6'7\"", "weight": "230lb", "age": 23, "country": "Slovenia"}}, {"name": {"first": "nikola", "last": "jokic"}, "team": {"name": "Denver Nuggets", "number": "15"}, "position": ["C"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 25.0, "reb": 10.8, "ast": 9.7}, "personalData": {"height": "6'11\"", "weight": "284lb", "age": 27, "country": "Serbia"}}, {"name": {"first": "pascal", "last": "siakam"}, "team": {"name": "Toronto Raptors", "number": "43"}, "position": ["F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 25.7, "reb": 8.3, "ast": 6.5}, "personalData": {"height": "6'8\"", "weight": "230lb", "age": 28, "country": "Cameroon"}}, {"name": {"first": "paul", "last": "george"}, "team": {"name": "LA Clippers", "number": "13"}, "position": ["F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 23.7, "reb": 6.0, "ast": 5.1}, "personalData": {"height": "6'8\"", "weight": "220lb", "age": 32, "country": "USA"}}, {"name": {"first": "shai", "last": "gilgeous-alexander"}, "team": {"name": "Oklahoma City Thunder", "number": "2"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 30.9, "reb": 4.8, "ast": 5.6}, "personalData": {"height": "6'6\"", "weight": "195lb", "age": 24, "country": "Canada"}}, {"name": {"first": "stephen", "last": "curry"}, "team": {"name": "Golden State Warriors", "number": "30"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 30.0, "reb": 6.6, "ast": 6.8}, "personalData": {"height": "6'2\"", "weight": "185lb", "age": 34, "country": "USA"}}, {"name": {"first": "trae", "last": "young"}, "team": {"name": "Atlanta Hawks", "number": "11"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 27.5, "reb": 2.9, "ast": 9.8}, "personalData": {"height": "6'1\"", "weight": "164lb", "age": 24, "country": "USA"}}, {"name": {"first": "tyrese", "last": "haliburton"}, "team": {"name": "Indiana Pacers", "number": "0"}, "position": ["G"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 20.3, "reb": 4.0, "ast": 10.3}, "personalData": {"height": "6'5\"", "weight": "185lb", "age": 22, "country": "USA"}}, {"name": {"first": "zion", "last": "williamson"}, "team": {"name": "New Orleans Pelicans", "number": "1"}, "position": ["F"], "allStar": {"team": "Team 1", "role": "bench", "number": -1}, "stats": {"pts": 26.0, "reb": 7.0, "ast": 4.6}, "personalData": {"height": "6'6\"", "weight": "284lb", "age": 22, "country": "USA"}}]}
+{
+	"data": [
+		{
+			"name": { "first": "anthony", "last": "davis" },
+			"team": { "name": "Los Angeles Lakers", "number": "3" },
+			"position": ["F", "C"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 27.4, "reb": 12.1, "ast": 2.6 },
+			"personalData": { "height": "6'10\"", "weight": "253lb", "age": 29, "country": "USA" }
+		},
+		{
+			"name": { "first": "damian", "last": "lillard" },
+			"team": { "name": "Portland Trail Blazers", "number": "0" },
+			"position": ["G"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 29.3, "reb": 3.9, "ast": 7.1 },
+			"personalData": { "height": "6'2\"", "weight": "195lb", "age": 32, "country": "USA" }
+		},
+		{
+			"name": { "first": "demar", "last": "derozan" },
+			"team": { "name": "Chicago Bulls", "number": "11" },
+			"position": ["G", "F"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 26.1, "reb": 5.0, "ast": 4.9 },
+			"personalData": { "height": "6'6\"", "weight": "220lb", "age": 33, "country": "USA" }
+		},
+		{
+			"name": { "first": "devin", "last": "booker" },
+			"team": { "name": "Phoenix Suns", "number": "1" },
+			"position": ["G"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 27.1, "reb": 4.6, "ast": 5.6 },
+			"personalData": { "height": "6'5\"", "weight": "206lb", "age": 26, "country": "USA" }
+		},
+		{
+			"name": { "first": "donovan", "last": "mitchell" },
+			"team": { "name": "Cleveland Cavaliers", "number": "45" },
+			"position": ["G"],
+			"allStar": { "team": "Team 1", "role": "starter" },
+			"stats": { "pts": 28.4, "reb": 3.9, "ast": 4.8 },
+			"personalData": { "height": "6'1\"", "weight": "215lb", "age": 26, "country": "USA" }
+		},
+		{
+			"name": { "first": "giannis", "last": "antetokounmpo" },
+			"team": { "name": "Milwaukee Bucks", "number": "34" },
+			"position": ["F"],
+			"allStar": { "team": "Team 1", "role": "starter" },
+			"stats": { "pts": 31.0, "reb": 11.9, "ast": 5.3 },
+			"personalData": { "height": "7'0\"", "weight": "243lb", "age": 28, "country": "Greece" }
+		},
+		{
+			"name": { "first": "ja", "last": "morant" },
+			"team": { "name": "Memphis Grizzlies", "number": "12" },
+			"position": ["G"],
+			"allStar": { "team": "Team 2", "role": "starter" },
+			"stats": { "pts": 27.4, "reb": 5.6, "ast": 7.9 },
+			"personalData": { "height": "6'2\"", "weight": "174lb", "age": 23, "country": "USA" }
+		},
+		{
+			"name": { "first": "james", "last": "harden" },
+			"team": { "name": "Philadelphia 76ers", "number": "1" },
+			"position": ["G"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 21.7, "reb": 6.3, "ast": 11.1 },
+			"personalData": { "height": "6'5\"", "weight": "220lb", "age": 33, "country": "USA" }
+		},
+		{
+			"name": { "first": "jaylen", "last": "brown" },
+			"team": { "name": "Boston Celtics", "number": "7" },
+			"position": ["G", "F"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 27.2, "reb": 7.1, "ast": 3.2 },
+			"personalData": { "height": "6'6\"", "weight": "223lb", "age": 26, "country": "USA" }
+		},
+		{
+			"name": { "first": "jayson", "last": "tatum" },
+			"team": { "name": "Boston Celtics", "number": "0" },
+			"position": ["F", "G"],
+			"allStar": { "team": "Team 2", "role": "starter" },
+			"stats": { "pts": 31.1, "reb": 8.3, "ast": 4.3 },
+			"personalData": { "height": "6'8\"", "weight": "210lb", "age": 24, "country": "USA" }
+		},
+		{
+			"name": { "first": "joel", "last": "embiid" },
+			"team": { "name": "Philadelphia 76ers", "number": "21" },
+			"position": ["C", "F"],
+			"allStar": { "team": "Team 2", "role": "starter" },
+			"stats": { "pts": 33.6, "reb": 9.8, "ast": 4.2 },
+			"personalData": { "height": "7'0\"", "weight": "280lb", "age": 28, "country": "Cameroon" }
+		},
+		{
+			"name": { "first": "kevin", "last": "durant" },
+			"team": { "name": "Brooklyn Nets", "number": "7" },
+			"position": ["F"],
+			"allStar": { "team": "Team 2", "role": "captain" },
+			"stats": { "pts": 29.7, "reb": 6.7, "ast": 5.3 },
+			"personalData": { "height": "6'10\"", "weight": "240lb", "age": 34, "country": "USA" }
+		},
+		{
+			"name": { "first": "kyrie", "last": "irving" },
+			"team": { "name": "Brooklyn Nets", "number": "11" },
+			"position": ["G"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 25.6, "reb": 4.8, "ast": 4.8 },
+			"personalData": { "height": "6'2\"", "weight": "195lb", "age": 30, "country": "Australia" }
+		},
+		{
+			"name": { "first": "lauri", "last": "markkanen" },
+			"team": { "name": "Utah Jazz", "number": "23" },
+			"position": ["F", "C"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 24.8, "reb": 8.7, "ast": 1.8 },
+			"personalData": { "height": "7'0\"", "weight": "240lb", "age": 25, "country": "Finland" }
+		},
+		{
+			"name": { "first": "lebron", "last": "james" },
+			"team": { "name": "Los Angeles Lakers", "number": "6" },
+			"position": ["F"],
+			"allStar": { "team": "Team 1", "role": "captain" },
+			"stats": { "pts": 29.8, "reb": 8.4, "ast": 7.0 },
+			"personalData": { "height": "6'9\"", "weight": "250lb", "age": 38, "country": "USA" }
+		},
+		{
+			"name": { "first": "luka", "last": "doncic" },
+			"team": { "name": "Dallas Mavericks", "number": "77" },
+			"position": ["F", "G"],
+			"allStar": { "team": "Team 2", "role": "starter" },
+			"stats": { "pts": 33.7, "reb": 8.8, "ast": 8.8 },
+			"personalData": { "height": "6'7\"", "weight": "230lb", "age": 23, "country": "Slovenia" }
+		},
+		{
+			"name": { "first": "nikola", "last": "jokic" },
+			"team": { "name": "Denver Nuggets", "number": "15" },
+			"position": ["C"],
+			"allStar": { "team": "Team 1", "role": "starter" },
+			"stats": { "pts": 25.1, "reb": 11.0, "ast": 9.9 },
+			"personalData": { "height": "6'11\"", "weight": "284lb", "age": 27, "country": "Serbia" }
+		},
+		{
+			"name": { "first": "pascal", "last": "siakam" },
+			"team": { "name": "Toronto Raptors", "number": "43" },
+			"position": ["F"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 25.5, "reb": 8.2, "ast": 6.4 },
+			"personalData": { "height": "6'8\"", "weight": "230lb", "age": 28, "country": "Cameroon" }
+		},
+		{
+			"name": { "first": "paul", "last": "george" },
+			"team": { "name": "LA Clippers", "number": "13" },
+			"position": ["F"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 23.4, "reb": 6.0, "ast": 5.1 },
+			"personalData": { "height": "6'8\"", "weight": "220lb", "age": 32, "country": "USA" }
+		},
+		{
+			"name": { "first": "shai", "last": "gilgeous-alexander" },
+			"team": { "name": "Oklahoma City Thunder", "number": "2" },
+			"position": ["G"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 30.5, "reb": 4.9, "ast": 5.5 },
+			"personalData": { "height": "6'6\"", "weight": "195lb", "age": 24, "country": "Canada" }
+		},
+		{
+			"name": { "first": "stephen", "last": "curry" },
+			"team": { "name": "Golden State Warriors", "number": "30" },
+			"position": ["G"],
+			"allStar": { "team": "Team 1", "role": "starter" },
+			"stats": { "pts": 29.3, "reb": 6.4, "ast": 6.3 },
+			"personalData": { "height": "6'2\"", "weight": "185lb", "age": 34, "country": "USA" }
+		},
+		{
+			"name": { "first": "trae", "last": "young" },
+			"team": { "name": "Atlanta Hawks", "number": "11" },
+			"position": ["G"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 27.2, "reb": 2.9, "ast": 9.8 },
+			"personalData": { "height": "6'1\"", "weight": "164lb", "age": 24, "country": "USA" }
+		},
+		{
+			"name": { "first": "tyrese", "last": "haliburton" },
+			"team": { "name": "Indiana Pacers", "number": "0" },
+			"position": ["G"],
+			"allStar": { "team": "Team 1", "role": "bench" },
+			"stats": { "pts": 20.2, "reb": 4.0, "ast": 10.2 },
+			"personalData": { "height": "6'5\"", "weight": "185lb", "age": 22, "country": "USA" }
+		},
+		{
+			"name": { "first": "zion", "last": "williamson" },
+			"team": { "name": "New Orleans Pelicans", "number": "1" },
+			"position": ["F"],
+			"allStar": { "team": "Team 2", "role": "bench" },
+			"stats": { "pts": 26.0, "reb": 7.0, "ast": 4.6 },
+			"personalData": { "height": "6'6\"", "weight": "284lb", "age": 22, "country": "USA" }
+		}
+	]
+}

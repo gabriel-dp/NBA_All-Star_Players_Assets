@@ -1,24 +1,24 @@
-Anthony Davis
-Damian Lillard
-Demar Derozan
-Devin Booker
-Donovan Mitchell
-Giannis Antetokounmpo
-Ja Morant
-James Harden
-Jaylen Brown
-Jayson Tatum
-Joel Embiid
-Kevin Durant
-Kyrie Irving
-Lauri Markkanen
-LeBron James
-Luka Doncic
-Nikola Jokic
-Pascal Siakam
-Paul George
-Shai Gilgeous-Alexander
-Stephen Curry
-Trae Young
-Tyrese Haliburton
-Zion Williamson
+Anthony Davis|Team 1|bench
+Damian Lillard|Team 2|bench
+Demar Derozan|Team 1|bench
+Devin Booker|Team 2|bench
+Donovan Mitchell|Team 1|starter
+Giannis Antetokounmpo|Team 1|starter
+Ja Morant|Team 2|starter
+James Harden|Team 2|bench
+Jaylen Brown|Team 1|bench
+Jayson Tatum|Team 2|starter
+Joel Embiid|Team 2|starter
+Kevin Durant|Team 2|captain
+Kyrie Irving|Team 1|bench
+Lauri Markkanen|Team 2|bench
+LeBron James|Team 1|captain
+Luka Doncic|Team 2|starter
+Nikola Jokic|Team 1|starter
+Pascal Siakam|Team 2|bench
+Paul George|Team 1|bench
+Shai Gilgeous-Alexander|Team 2|bench
+Stephen Curry|Team 1|starter
+Trae Young|Team 1|bench
+Tyrese Haliburton|Team 1|bench
+Zion Williamson|Team 2|bench

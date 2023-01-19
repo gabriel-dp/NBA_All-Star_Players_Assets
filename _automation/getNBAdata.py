@@ -28,20 +28,30 @@ driver = webdriver.Chrome(options=options)
 driver.get("https://www.nba.com/players")
 driver.maximize_window()
 
+# Remove cookies window
+time.sleep(3)
+driver.find_element("xpath", "//button [@id='onetrust-accept-btn-handler']").click()
+time.sleep(3)
 
 # Web-Scrap data
 data = []
 for player in players: 
+    playerSplit = player.replace('\n', '').split("|")
+    playerName = playerSplit[0]
+    playerTeam = playerSplit[1]
+    playerRole = playerSplit[2]
+
     try:
         search_player = driver.find_element("xpath", "(//input [@type='text'])[1]")
         search_player.clear()
-        search_player.send_keys(player)
+        search_player.send_keys(playerName)
+        time.sleep(1)
+        driver.find_element("xpath", "(//a [@class='Anchor_anchor__cSc3P RosterRow_playerLink__qw1vG'])[1]").click()
         time.sleep(2)
-        driver.find_element("xpath", "(//a)[121]").click()
-
         ## Profile page
 
         # Split team/number/position
+        driver.implicitly_wait(10)
         team_number_position = driver.find_element("xpath", "//p [@class='PlayerSummary_mainInnerInfo__jv3LO']").text
         team_name = team_number_position.split(' | ')[0]
         number = team_number_position.split(' | ')[1].replace('#', '')
@@ -61,8 +71,8 @@ for player in players:
 
         new_player = {
             "name": {
-                "first": player.split()[0].lower(),
-                "last": player.split()[1].lower()
+                "first": playerName.split()[0].lower(),
+                "last": playerName.split()[1].lower()
             },
             "team": {
                 "name": team_name,
@@ -70,9 +80,8 @@ for player in players:
             },
             "position": abv_position,
             "allStar": {
-                "team": "Team 1",
-                "role": "bench",
-                "number": -1
+                "team": playerTeam,
+                "role": playerRole
             },
             "stats": {
                 "pts": float(driver.find_element("xpath", "(//p [@class='PlayerSummary_playerStatValue___EDg_'][1])[1]").text),
@@ -89,8 +98,9 @@ for player in players:
 
         print(new_player)
         data.append(new_player)
-    except:
+    except Exception as e:
         print(f'Error at player {player}')
+        print(e)
 
     driver.back()
     time.sleep(1)
