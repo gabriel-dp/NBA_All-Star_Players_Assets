@@ -3,6 +3,7 @@
 import argparse
 from pathlib import Path
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 import json
 
@@ -22,7 +23,7 @@ with open(arg_input) as f:
 # Browser driver config
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # Open browser driver
 driver.get("https://www.nba.com/players")
