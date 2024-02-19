@@ -4,7 +4,7 @@
 			"name": { "first": "anthony", "last": "davis" },
 			"team": { "name": "Los Angeles Lakers", "number": "3" },
 			"position": ["F", "C"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 24.7, "reb": 12.2, "ast": 3.7 },
 			"personalData": { "height": "6'10\"", "weight": "253lb", "age": 30, "country": "USA" }
 		},
@@ -12,7 +12,7 @@
 			"name": { "first": "anthony", "last": "edwards" },
 			"team": { "name": "Minnesota Timberwolves", "number": "5" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 25.5, "reb": 5.1, "ast": 5.2 },
 			"personalData": { "height": "6'4\"", "weight": "225lb", "age": 22, "country": "USA" }
 		},
@@ -20,7 +20,7 @@
 			"name": { "first": "bam", "last": "adebayo" },
 			"team": { "name": "Miami Heat", "number": "13" },
 			"position": ["C", "F"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "East", "role": "bench" },
 			"stats": { "pts": 20.5, "reb": 10.6, "ast": 4.1 },
 			"personalData": { "height": "6'9\"", "weight": "255lb", "age": 26, "country": "USA" }
 		},
@@ -28,7 +28,7 @@
 			"name": { "first": "damian", "last": "lillard" },
 			"team": { "name": "Milwaukee Bucks", "number": "0" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "East", "role": "starter" },
 			"stats": { "pts": 25.2, "reb": 4.3, "ast": 6.8 },
 			"personalData": { "height": "6'2\"", "weight": "195lb", "age": 33, "country": "USA" }
 		},
@@ -36,7 +36,7 @@
 			"name": { "first": "devin", "last": "booker" },
 			"team": { "name": "Phoenix Suns", "number": "1" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 27.8, "reb": 4.8, "ast": 7.2 },
 			"personalData": { "height": "6'6\"", "weight": "206lb", "age": 27, "country": "USA" }
 		},
@@ -44,7 +44,7 @@
 			"name": { "first": "donovan", "last": "mitchell" },
 			"team": { "name": "Cleveland Cavaliers", "number": "45" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "East", "role": "bench" },
 			"stats": { "pts": 28.2, "reb": 5.5, "ast": 6.4 },
 			"personalData": { "height": "6'3\"", "weight": "215lb", "age": 27, "country": "USA" }
 		},
@@ -52,7 +52,7 @@
 			"name": { "first": "giannis", "last": "antetokounmpo" },
 			"team": { "name": "Milwaukee Bucks", "number": "34" },
 			"position": ["F"],
-			"allStar": { "team": "-", "role": "captain" },
+			"allStar": { "team": "East", "role": "captain" },
 			"stats": { "pts": 31.3, "reb": 11.5, "ast": 6.2 },
 			"personalData": { "height": "6'11\"", "weight": "243lb", "age": 29, "country": "Greece" }
 		},
@@ -60,15 +60,15 @@
 			"name": { "first": "karl-anthony", "last": "towns" },
 			"team": { "name": "Minnesota Timberwolves", "number": "32" },
 			"position": ["C", "F"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 22.7, "reb": 8.6, "ast": 3.1 },
 			"personalData": { "height": "7'0\"", "weight": "248lb", "age": 28, "country": "USA" }
 		},
 		{
 			"name": { "first": "kawhi", "last": "leonard" },
-			"team": { "name": "LA Clippers", "number": "2" },
+			"team": { "name": "Los Angeles Clippers", "number": "2" },
 			"position": ["F"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 24.1, "reb": 6.3, "ast": 3.7 },
 			"personalData": { "height": "6'7\"", "weight": "225lb", "age": 32, "country": "USA" }
 		},
@@ -76,7 +76,7 @@
 			"name": { "first": "kevin", "last": "durant" },
 			"team": { "name": "Phoenix Suns", "number": "35" },
 			"position": ["F"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "West", "role": "starter" },
 			"stats": { "pts": 28.3, "reb": 6.3, "ast": 5.7 },
 			"personalData": { "height": "6'11\"", "weight": "240lb", "age": 35, "country": "USA" }
 		},
@@ -84,7 +84,7 @@
 			"name": { "first": "jalen", "last": "brunson" },
 			"team": { "name": "New York Knicks", "number": "11" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "East", "role": "bench" },
 			"stats": { "pts": 27.3, "reb": 3.9, "ast": 6.5 },
 			"personalData": { "height": "6'2\"", "weight": "190lb", "age": 27, "country": "USA" }
 		},
@@ -92,7 +92,7 @@
 			"name": { "first": "jaylen", "last": "brown" },
 			"team": { "name": "Boston Celtics", "number": "7" },
 			"position": ["G", "F"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "East", "role": "bench" },
 			"stats": { "pts": 22.3, "reb": 5.4, "ast": 3.7 },
 			"personalData": { "height": "6'6\"", "weight": "223lb", "age": 27, "country": "USA" }
 		},
@@ -100,31 +100,15 @@
 			"name": { "first": "jayson", "last": "tatum" },
 			"team": { "name": "Boston Celtics", "number": "0" },
 			"position": ["F", "G"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "East", "role": "starter" },
 			"stats": { "pts": 26.8, "reb": 8.4, "ast": 4.4 },
 			"personalData": { "height": "6'8\"", "weight": "210lb", "age": 25, "country": "USA" }
-		},
-		{
-			"name": { "first": "joel", "last": "embiid" },
-			"team": { "name": "Philadelphia 76ers", "number": "21" },
-			"position": ["C", "F"],
-			"allStar": { "team": "-", "role": "starter" },
-			"stats": { "pts": 35.3, "reb": 11.3, "ast": 5.7 },
-			"personalData": { "height": "7'0\"", "weight": "280lb", "age": 29, "country": "Cameroon" }
-		},
-		{
-			"name": { "first": "julius", "last": "randle" },
-			"team": { "name": "New York Knicks", "number": "30" },
-			"position": ["F", "C"],
-			"allStar": { "team": "-", "role": "bench" },
-			"stats": { "pts": 24.0, "reb": 9.2, "ast": 5.0 },
-			"personalData": { "height": "6'8\"", "weight": "250lb", "age": 29, "country": "USA" }
 		},
 		{
 			"name": { "first": "paolo", "last": "banchero" },
 			"team": { "name": "Orlando Magic", "number": "5" },
 			"position": ["F"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "East", "role": "bench" },
 			"stats": { "pts": 23.0, "reb": 6.9, "ast": 5.1 },
 			"personalData": { "height": "6'10\"", "weight": "250lb", "age": 21, "country": "USA" }
 		},
@@ -132,7 +116,7 @@
 			"name": { "first": "lebron", "last": "james" },
 			"team": { "name": "Los Angeles Lakers", "number": "23" },
 			"position": ["F"],
-			"allStar": { "team": "-", "role": "captain" },
+			"allStar": { "team": "West", "role": "captain" },
 			"stats": { "pts": 24.9, "reb": 7.4, "ast": 7.6 },
 			"personalData": { "height": "6'9\"", "weight": "250lb", "age": 39, "country": "USA" }
 		},
@@ -140,7 +124,7 @@
 			"name": { "first": "luka", "last": "doncic" },
 			"team": { "name": "Dallas Mavericks", "number": "77" },
 			"position": ["F", "G"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "West", "role": "starter" },
 			"stats": { "pts": 34.8, "reb": 8.6, "ast": 9.6 },
 			"personalData": { "height": "6'7\"", "weight": "230lb", "age": 24, "country": "Slovenia" }
 		},
@@ -148,23 +132,31 @@
 			"name": { "first": "nikola", "last": "jokic" },
 			"team": { "name": "Denver Nuggets", "number": "15" },
 			"position": ["C"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "West", "role": "starter" },
 			"stats": { "pts": 26.3, "reb": 12.3, "ast": 9.1 },
 			"personalData": { "height": "6'11\"", "weight": "284lb", "age": 28, "country": "Serbia" }
 		},
 		{
 			"name": { "first": "paul", "last": "george" },
-			"team": { "name": "LA Clippers", "number": "13" },
+			"team": { "name": "Los Angeles Clippers", "number": "13" },
 			"position": ["F"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 22.9, "reb": 5.4, "ast": 3.6 },
 			"personalData": { "height": "6'8\"", "weight": "220lb", "age": 33, "country": "USA" }
+		},
+		{
+			"name": { "first": "scottie", "last": "barnes" },
+			"team": { "name": "Toronto Raptors", "number": "4" },
+			"position": ["F", "G"],
+			"allStar": { "team": "East", "role": "bench" },
+			"stats": { "pts": 20.1, "reb": 8.1, "ast": 6.0 },
+			"personalData": { "height": "6'7\"", "weight": "237lb", "age": 22, "country": "USA" }
 		},
 		{
 			"name": { "first": "shai", "last": "gilgeous-alexander" },
 			"team": { "name": "Oklahoma City Thunder", "number": "2" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "West", "role": "starter" },
 			"stats": { "pts": 31.3, "reb": 5.6, "ast": 6.4 },
 			"personalData": { "height": "6'6\"", "weight": "195lb", "age": 25, "country": "Canada" }
 		},
@@ -172,15 +164,23 @@
 			"name": { "first": "stephen", "last": "curry" },
 			"team": { "name": "Golden State Warriors", "number": "30" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "West", "role": "bench" },
 			"stats": { "pts": 28.1, "reb": 4.4, "ast": 5.0 },
 			"personalData": { "height": "6'2\"", "weight": "185lb", "age": 35, "country": "USA" }
+		},
+		{
+			"name": { "first": "trae", "last": "young" },
+			"team": { "name": "Atlanta Hawks", "number": "11" },
+			"position": ["G"],
+			"allStar": { "team": "East", "role": "bench" },
+			"stats": { "pts": 26.7, "reb": 2.7, "ast": 10.9 },
+			"personalData": { "height": "6'1\"", "weight": "164lb", "age": 25, "country": "USA" }
 		},
 		{
 			"name": { "first": "tyrese", "last": "haliburton" },
 			"team": { "name": "Indiana Pacers", "number": "0" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "starter" },
+			"allStar": { "team": "East", "role": "starter" },
 			"stats": { "pts": 22.8, "reb": 4.1, "ast": 12.0 },
 			"personalData": { "height": "6'5\"", "weight": "185lb", "age": 23, "country": "USA" }
 		},
@@ -188,7 +188,7 @@
 			"name": { "first": "tyrese", "last": "maxey" },
 			"team": { "name": "Philadelphia 76ers", "number": "0" },
 			"position": ["G"],
-			"allStar": { "team": "-", "role": "bench" },
+			"allStar": { "team": "East", "role": "bench" },
 			"stats": { "pts": 26.2, "reb": 3.5, "ast": 6.4 },
 			"personalData": { "height": "6'2\"", "weight": "200lb", "age": 23, "country": "USA" }
 		}
